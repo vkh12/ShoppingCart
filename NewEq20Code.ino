@@ -28,7 +28,6 @@
  const int stepsPerRevolution = 255;
  Stepper myStepper1(stepsPerRevolution, 8, 9, 10, 11); 
  Stepper myStepper2(stepsPerRevolution, 4, 5, 6, 7); 
- Stepper myStepper2(stepsPerRevolution, 4, 5, 6, 7);
 
  double* calcWheelVels(double vx, double vy, double wz){
  double r = 0.1;
