@@ -1,6 +1,6 @@
 # Shopping Cart
 
-I have been researching in the Robotics, Automation, and Mechatronics lab at Rutgers University since the summer of 2020 and am working with members of the lab to develop a human-following autonomous shopping cart for safe shopping in crowded environments. 
+I have researched in the Robotics, Automation, and Mechatronics lab at Rutgers University from Summer 2020 to 2021 and with the support from my mentor and partners, developed a human-following autonomous shopping cart for safe shopping in crowded environments. 
 
 More information regarding the project can be found [here][1]. 
 
